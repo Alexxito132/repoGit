@@ -1,5 +1,9 @@
 Hola_dev
 Hola dos
 Hola tres
+<<<<<<< HEAD
 Hola cuatro
 
+=======
+Hola cuatro4
+>>>>>>> 0c99f38c051b25b891026523cf3508dbeb6ea234
